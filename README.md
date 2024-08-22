@@ -15,7 +15,7 @@
 
 ###
 
- <p align="1eft">Netlify Demo : /p>  
+ <p align="1eft">Netlify Demo :https://reacttask-reduxcart.netlify.app/ /p>  
 
 
 
